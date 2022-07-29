@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdoc=self.webpackChunkdoc||[]).push([[6854],{90:e=>{e.exports=JSON.parse('{"label":"Client","permalink":"/docs/tags/client","allTagsPath":"/docs/tags","count":1,"items":[{"id":"API/bot","title":"Client","description":"\u4f7f\u7528 createClient() \u6216 new Client \u521b\u5efa\u5b9e\u4f8b","permalink":"/docs/API/bot"}]}')}}]);
