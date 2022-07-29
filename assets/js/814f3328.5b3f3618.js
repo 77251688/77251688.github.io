@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdoc=self.webpackChunkdoc||[]).push([[2535],{5641:e=>{e.exports=JSON.parse('{"title":"\u535a\u5ba2","items":[{"title":"Cummins","permalink":"/blog/me"}]}')}}]);
